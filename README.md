@@ -6,9 +6,9 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Development server
 
-##Clone Repo and Run NPM Start
+## Clone Repo and Run NPM Start
 
-##Thanks to following tools & hosting websites which helped me build the app at no cost.
+## Thanks to following tools & hosting websites which helped me build the app at no cost.
 
 Angular 8
 Web API Services
